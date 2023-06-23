@@ -24,6 +24,7 @@ Exercícios sobre POO
 - ``DEV Media``
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WellZup&layout=compact)](https://github.com/WellZup/github-readme-stats)
+
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
